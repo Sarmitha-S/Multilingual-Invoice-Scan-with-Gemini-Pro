@@ -10,3 +10,5 @@ Make sure you have the required dependencies installed. You can install them usi
 
 ```bash
 pip install -r requirements.txt
+
+## Configuration
